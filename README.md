@@ -21,7 +21,9 @@ TBD
 
 ## Documentation [&#x219F;](#contents)
 
-TBD
+* The [lmug spec](docs/SPEC.md) - based on the Clojure [Ring spec](https://github.com/ring-clojure/ring/blob/master/SPEC)
+* The [lmug API Reference](http://lfe-mug.github.io/lmug/current/api)
+* The [lmug-json API Reference](http://lfe-mug.github.io/lmug-json/current/api)
 
 
 ## License [&#x219F;](#contents)
